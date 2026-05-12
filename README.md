@@ -189,6 +189,6 @@ This project successfully implemented customer segmentation using K-Means Cluste
 
 # Author
 
-Kantipudi Sahithi
+Motati Madhu Sudhan Reddy
 
 Synent Technologies Data Science Internship
